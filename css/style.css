@@ -1,0 +1,25 @@
+html, body{
+    overflow-x: hidden;
+}
+
+.checked{
+    color:orange;
+     
+}
+
+#demo{
+    color: #ad0707de;
+    font-size: 20px
+}
+
+button{
+    padding: 10px; 
+    border-radius: 20px;
+    box-shadow: 2px;
+}
+
+.btn-sm{
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 10px
+}
